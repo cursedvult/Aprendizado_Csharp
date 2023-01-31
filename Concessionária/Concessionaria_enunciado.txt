@@ -1,0 +1,7 @@
+﻿Este projeto é referente ao enunciado de uma atividade introdutória ao C#.
+Segue o enunciado:
+
+Uma concessionária de veículos financia os carros que vende em até 50 parcelas, desde que o cliente
+dê de entrada 40% do valor total. Crie uma rotina para calcular o valor da entrada e o valor de cada
+uma das parcelas, após ser fornecido o valor do carro vendido a um cliente e o número de parcelas 
+a financiar.
